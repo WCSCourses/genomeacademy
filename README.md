@@ -24,7 +24,7 @@ Check the course_data and modules repositories for info on how to add data and y
 
 ## Course manual
 **Module 1 - Mod 1**   
-[PDF Manual - Mod 1](Modules/)     
+[example module Manual - Mod 1](modules/module_base.md)     
 
 
 
