@@ -29,7 +29,9 @@ In this section you will find all the materials used during the course so you ca
 
 **Day 1**   
 [DNA extraction - Saliva.docx.pdf](https://github.com/WCSCourses/genomeacademy/files/12335655/DNA.extraction.-.Saliva.docx.pdf)     
+
 [DNA extraction - strawberries.pdf](https://github.com/WCSCourses/genomeacademy/files/12335656/DNA.extraction.-.strawberries.pdf)
+
 [Protocol for performing quick PCR  session 1 and 2.pdf](https://github.com/WCSCourses/genomeacademy/files/12335662/Protocol.for.performing.quick.PCR.session.1.and.2.pdf)
 
 
