@@ -20,7 +20,7 @@ In this section find out who your instructors will be and what you will be cover
 
  
 ## Detailed timetable
-You can view the full timetable here [Genome Academy 22-24 August Student programme .docx.pdf](https://github.com/WCSCourses/genomeacademy/files/12335532/Genome.Academy.22-24.August.Student.programme.docx.pdf))
+You can view the full timetable here: [Genome Academy 22-24 August Student programme .docx.pdf](https://github.com/WCSCourses/genomeacademy/files/12335532/Genome.Academy.22-24.August.Student.programme.docx.pdf)
 
 
 
@@ -28,8 +28,9 @@ You can view the full timetable here [Genome Academy 22-24 August Student progra
 In this section you will find all the materials used during the course so you can refer to them during the practical sessions and after the course has ended.
 
 **Day 1**   
-[example module Manual - Mod 1](modules/module_base.md)     
-
+[DNA extraction - Saliva.docx.pdf](https://github.com/WCSCourses/genomeacademy/files/12335655/DNA.extraction.-.Saliva.docx.pdf)     
+[DNA extraction - strawberries.pdf](https://github.com/WCSCourses/genomeacademy/files/12335656/DNA.extraction.-.strawberries.pdf)
+[Protocol for performing quick PCR  session 1 and 2.pdf](https://github.com/WCSCourses/genomeacademy/files/12335662/Protocol.for.performing.quick.PCR.session.1.and.2.pdf)
 
 
 **Day 2**  
