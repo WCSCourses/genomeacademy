@@ -6,38 +6,44 @@ Genomics is a rapidly developing field of research and is increasingly weaving i
 
 Across three immersive days you will learn and experience the end to end process of how we translate DNA into data. The packed programme of activities will include talks on the latest cutting-edge science taking place at the Wellcome Sanger Institute, lab tours, hands-on experience with wet lab techniques such as DNA Extraction, PCR, DNA Sequencing as well as training with bioinformatics tools. You will also get the opportunity to meet a range of different staff working in this field.
 
-## Course overview
+# Course overview
 The Genome Academy is a course designed and delivered by Wellcome Connecting Science, based at the Wellcome Genome Campus, Hinxton.
 
 In this section find out who your instructors will be and what you will be covering over the three days. 
 
 ## Instructors
-- [Instrucotr](link),Affiliation
+- Fran Gale, Head of Science Engagement - Engagement and Society Team
+- Cindy Smidt, Science Engagement Officer - Engagement and Society Team
+- Cassandra Soo, Laboratory COurses Manager - Learning and Training Team
+- Aaron Dean, Laboratory Assistant - Learning and Training Team
+- Jorge Batista da Rocha, Education Developer - Learning and Training Team
 
-### Overview
-
-
-### Detailed timetable
-[View Timetable here]()
+ 
+## Detailed timetable
+You can view the full timetable here [View Timetable here]()
 
 
 
-## Course manual
-**Module 1 - Mod 1**   
+# Course materials
+In this section you will find all the materials used during the course so you can refer to them during the practical sessions and after the course has ended.
+
+**Day 1**   
 [example module Manual - Mod 1](modules/module_base.md)     
 
 
 
-**Module 3 - **  
+**Day 2**  
 [Online Manual - Introduction to NGS](Modules/)
   
-**Module 4 -*  
+**Day 3**  
 [Online Manual - Mod4l QC](Modules/)
 
 
+**useful resources**      
+  Below are links to some further reading and resources
 
+  ***DNA Sequencing***
 
-**Appendix**      
   
 
 
