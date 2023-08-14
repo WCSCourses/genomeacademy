@@ -20,7 +20,7 @@ In this section find out who your instructors will be and what you will be cover
 
  
 ## Detailed timetable
-You can view the full timetable here [View Timetable here]()
+You can view the full timetable here [View Timetable here](Genome Academy 22-24 August Student programme .docx.pdf)
 
 
 
