@@ -55,3 +55,25 @@ The trainer will turn on the power unit of the gel system.
 
 Check the screen or gel. In a few minutes you will see bands appear on the gel.
 If a band appears on the gel, this means there is DNA present.  If a band does not appear, The PCR reaction was not successful.  This could mean that DNA was not present in the sample or that the reaction failed. 
+
+
+visual tests
+<h1>Some Markdown text with <span style="color:blue">some *blue* text</span>.</h1>
+
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
+
+
+
+<span style="color:green;font-weight:700;font-size:38px">
+    markdown color font styles
+</span>
+
+<style>
+red { color: red }
+yellow { color: yellow }
+</style>
+
+<red> red color markdown text</red>
+<yellow> red color markdown text</yellow>
