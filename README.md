@@ -14,9 +14,18 @@ In this section find out who your instructors will be and what you will be cover
 ## Instructors
 - Fran Gale, Head of Science Engagement - Engagement and Society Team
 - Cindy Smidt, Science Engagement Officer - Engagement and Society Team
-- Cassandra Soo, Laboratory COurses Manager - Learning and Training Team
+- Cassandra Soo, Laboratory Courses Manager - Learning and Training Team
 - Aaron Dean, Laboratory Assistant - Learning and Training Team
 - Jorge Batista da Rocha, Education Developer - Learning and Training Team
+
+## Speakers
+- Petra Korlević, Staff Scientist - 
+- Yvette Hooks, Senior Technical Specialist - 
+- Pantelis Nicola,  
+- Lia Chappell, Postdoctoral Fellow - 
+- Andrew Bassett, Head of Cellular Research - 
+- Kim Gurwitz, Scientific Training Lead - 
+- Sam Shingles, Science Engagement Officer - Engagement and Society Team
 
  
 ## Detailed timetable
