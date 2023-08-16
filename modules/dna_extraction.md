@@ -1,14 +1,15 @@
 # DNA extraction protocol - saliva
 
-In this simple protocol we will be using household items to extract DNA from your own saliva sample. 
-Materials + Tools
-50ml falcon tubes
-Saliva
-Dish soap
-Table salt
-Contact lense solution
-Absolute / 70% ethanol
-p20 pipette and tips
+In this simple protocol we will be using household items to extract DNA from your own saliva sample.         
+
+**Materials + Tools**
+- 50ml falcon tubes
+- Saliva
+- Dish soap
+- Table salt
+- Contact lense solution
+- Absolute / 70% ethanol
+- p20 pipette and tips
 
 Instructions
 Spit into the falcon tube until you have about 10ml of saliva. The saliva is laden with cells, shed from your cheeks and mouth lining, which are full of DNA.
