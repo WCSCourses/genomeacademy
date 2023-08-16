@@ -51,12 +51,12 @@ In this section you will find all the materials used during the course so you ca
 [Online Manual - Mod4l QC](Modules/)
 
 
-**useful resources**      
+# Useful resources      
   Below are links to some further reading and resources
 
   ***DNA Sequencing***
-
-  
+ 
+# Questionnaires
 
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
