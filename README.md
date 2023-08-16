@@ -74,10 +74,20 @@ In this section you will find all the materials used during the course so you ca
 [Online Manual - Mod4l QC](Modules/)
 
 
-# Useful resources      
-  Below are links to some further reading and resources
+# Further Readimg and Useful resources      
+Below are links to some further reading and resources
 
-  ***DNA Sequencing***
+## DNA 101
+[**What is DNA?**](https://www.yourgenome.org/facts/what-is-dna/)
+[**What does DNA do?**](https://www.yourgenome.org/facts/what-does-dna-do/)
+
+## Sequencing resources
+
+## Genome editing
+
+## Bioinformatics
+
+
  
 # Questionnaires
 
