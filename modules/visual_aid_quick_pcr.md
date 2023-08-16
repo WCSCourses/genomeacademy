@@ -1,3 +1,4 @@
+<p style="background-color:#FFFF00;
 # Running a Polymerase Chain Reaction (PCR) experiment
 
 Session 1: Running a quick PCR
@@ -55,6 +56,7 @@ The trainer will turn on the power unit of the gel system.
 
 Check the screen or gel. In a few minutes you will see bands appear on the gel.
 If a band appears on the gel, this means there is DNA present.  If a band does not appear, The PCR reaction was not successful.  This could mean that DNA was not present in the sample or that the reaction failed. 
+</p>
 
 images tests
 
