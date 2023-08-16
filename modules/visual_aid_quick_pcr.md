@@ -1,4 +1,4 @@
-<p style="background-color:#FFFF00;
+<p style="background-color:#FFFF00;">
 # Running a Polymerase Chain Reaction (PCR) experiment
 
 Session 1: Running a quick PCR
