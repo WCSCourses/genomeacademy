@@ -50,6 +50,8 @@ In this section you will find all the materials used during the course so you ca
 
 [Protocol for performing quick PCR  session 1 and 2.pdf](https://github.com/WCSCourses/genomeacademy/files/12335662/Protocol.for.performing.quick.PCR.session.1.and.2.pdf)
 
+[Quick PCR protocol - Visual Aid](modules/visual_aid_quick_pcr.md)
+
 
 **Day 2**  
 [Online Manual - Introduction to NGS](Modules/)
