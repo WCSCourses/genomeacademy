@@ -18,6 +18,8 @@ In this section find out who your instructors will be and what you will be cover
 - Aaron Dean, Laboratory Assistant - Learning and Training Team
 - Jorge Batista da Rocha, Education Developer - Learning and Training Team
 
+![placeholder image of instructors](img/Placeholder_image.png)
+
 ## Speakers
 - Petra Korlević, Staff Scientist - Darwin Tree of Life Team
 - Yvette Hooks, Senior Technical Specialist - Cancer, Ageing and Somatic Mutations Team
