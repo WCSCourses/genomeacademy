@@ -1,8 +1,8 @@
-<p style="background-color:#FFFF00;">
-# Running a Polymerase Chain Reaction (PCR) experiment
+<body style="background-color:#ffff00;font-size:18px">
+<h1>Running a Polymerase Chain Reaction (PCR) experiment</h1>
 
-Session 1: Running a quick PCR
-In this session we will use the EDVOTEK Quick PCR kit to amplify Lamda DNA
+<h2>Session 1: Running a quick PCR</h2>
+<p>In this session we will use the EDVOTEK Quick PCR kit to amplify Lamda DNA
 
 Label a new tube as DNA mix followed by your initials 
 
@@ -18,15 +18,15 @@ The solution should turn to an orange liquid, indicating that all reagents are p
 
 Spin tube
 Hand tube to instructor who will load the samples into the Thermocycler
+</p>
 
 
 
 
 
 
-
-Session 2: Gel Electrophoresis using Lonza Flashgel
-In this process we will dye your DNA using a stain and use an electric current to pull the DNA across a special gel.  
+<h2>Session 2: Gel Electrophoresis using Lonza Flashgel</h2>
+<p>In this process we will dye your DNA using a stain and use an electric current to pull the DNA across a special gel.  
 
 Label a 1.5 ml tube with your sample ID.
 
@@ -55,31 +55,5 @@ The trainer will turn on the power unit of the gel system.
 
 
 Check the screen or gel. In a few minutes you will see bands appear on the gel.
-If a band appears on the gel, this means there is DNA present.  If a band does not appear, The PCR reaction was not successful.  This could mean that DNA was not present in the sample or that the reaction failed. 
-</p>
-
-images tests
-
-![picture of jorge](img/IMG_9469.JPG)
-
-
-visual tests
-<h1>Some Markdown text with <span style="color:blue">some *blue* text</span>.</h1>
-
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
-
-
-
-<span style="color:green;font-weight:700;font-size:38px">
-    markdown color font styles
-</span>
-
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
-
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
+If a band appears on the gel, this means there is DNA present.  If a band does not appear, The PCR reaction was not successful.  This could mean that DNA was not present in the sample or that the reaction failed.</p>
+</body>
