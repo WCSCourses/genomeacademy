@@ -12,14 +12,25 @@ The Genome Academy is a course designed and delivered by Wellcome Connecting Sci
 In this section find out who your instructors will be and what you will be covering over the three days. 
 
 ## Instructors
-- Fran Gale, Head of Science Engagement - Engagement and Society Team
+- **Fran Gale**, Head of Science Engagement - Engagement and Society Team
 
 _Fran is the Head of Science Engagement for Wellcome Connecting Science. She manages the Science engagement team and develops training programmes on Genomics for Science teachers.  Fran has been working in Science engagement for over 20 years and before her role here on campus used to run the education department at Colchester Zoo!  She studied Biological Sciences at Exeter University and has an MSc in Science Comunication from UWE, Bristol._
 
-- Cindy Smidt, Science Engagement Officer - Engagement and Society Team
-- Cassandra Soo, Laboratory Courses Manager - Learning and Training Team
-- Aaron Dean, Laboratory Assistant - Learning and Training Team
-- Jorge Batista da Rocha, Education Developer - Learning and Training Team
+- **Cindy Smidt**, Science Engagement Officer - Engagement and Society Team
+
+_Cindy is a Science Engagement Officer at Wellcome Connecting Science, based at the Wellcome Genome Campus. Cindy’s role is to engage students in the field of genomics both in schools and at the Genome Campus by interactive activities and talks from professionals to outline their work and skills needed. Cindy came into this role from previous experience as an Advanced Research Assistant working on malaria, where she found her passion for engaging students and the public in science._
+
+- **Cassandra Soo**, Laboratory Courses Manager - Learning and Training Team
+
+_Placeholer text_
+ 
+- **Aaron Dean**, Laboratory Assistant - Learning and Training Team
+
+_Aaron started working in a lab straight after graduating from the University of Portsmouth with a BSc in Biochemistry. I spent 4 years working at a microbiology lab in a hospital as a laboratory assistant, before starting at Wellcome Connecting Science in 2020.   He enjoys working on a variety of courses based here at the Wellcome Genome Campus and overseas, setting up experiments and assisting a variety of expert training teams from around the world._
+  
+- **Jorge Batista da Rocha**, Education Developer - Learning and Training Team
+
+_Jorge joined Wellcome Connecting Science in October 2021 as an Education Developer working on COG-Train courses. Jorge’ role is to create and coordinate virtual courses and remote classrooms on all aspects of SARS-CoV-2 sequencing and analysis.  Jorge holds a PhD Human Genetics and Bioinformatics from the Sydney Brenner Institute for Molecular Bioscience. His research focused on pharmacogenomics in African populations and the interpretation of genetic variants which could be used for precision medicine strategies. He enjoys community outreach and engagement, and loves sharing how genomic knowledge can be used to enrich the world._
 
 ![placeholder image of instructors](modules/img/Placeholder_image.png)
 
