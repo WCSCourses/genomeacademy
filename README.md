@@ -23,7 +23,7 @@ In this section find out who your instructors will be and what you will be cover
 <p style="text-align: center;">
 <i>Top Row: Jorge Batista da Rocha, Aaron Dean</i>
 
- <i>Bottom Row: Cindy Smidt, Fran Gale</i>
+ *Bottom Row: Cindy Smidt, Fran Gale*
 </p>
 
 ## Speakers
