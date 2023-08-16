@@ -13,6 +13,8 @@ In this section find out who your instructors will be and what you will be cover
 
 ## Instructors
 - Fran Gale, Head of Science Engagement - Engagement and Society Team
+_Fran is the Head of Science Engagement for Wellcome Connecting Science. She manages the Science engagement team and develops training programmes on Genomics for Science teachers.  Fran has been working in Science engagement for over 20 years and before her role here on campus used to run the education department at Colchester Zoo!  She studied Biological Sciences at Exeter University and has an MSc in Science Comunication from UWE, Bristol._
+
 - Cindy Smidt, Science Engagement Officer - Engagement and Society Team
 - Cassandra Soo, Laboratory Courses Manager - Learning and Training Team
 - Aaron Dean, Laboratory Assistant - Learning and Training Team
