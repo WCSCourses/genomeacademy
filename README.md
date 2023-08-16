@@ -21,8 +21,9 @@ In this section find out who your instructors will be and what you will be cover
 ![placeholder image of instructors](modules/img/Placeholder_image.png)
 
 <p style="text-align: center;">
-_Top Row: Jorge Batista da Rocha, Aaron Dean_
-_Bottom Row: Cindy Smidt, Fran Gale_
+_Top Row: Jorge Batista da Rocha, Aaron Dean
+Bottom Row: Cindy Smidt, Fran Gale_
+</p>
 
 ## Speakers
 - Petra Korlević, Staff Scientist - Darwin Tree of Life Team
