@@ -19,12 +19,12 @@ In this section find out who your instructors will be and what you will be cover
 - Jorge Batista da Rocha, Education Developer - Learning and Training Team
 
 ## Speakers
-- Petra Korlević, Staff Scientist - 
-- Yvette Hooks, Senior Technical Specialist - 
+- Petra Korlević, Staff Scientist - Darwin Tree of Life Team
+- Yvette Hooks, Senior Technical Specialist - Cancer, Ageing and Somatic Mutations Team
 - Pantelis Nicola,  
-- Lia Chappell, Postdoctoral Fellow - 
-- Andrew Bassett, Head of Cellular Research - 
-- Kim Gurwitz, Scientific Training Lead - 
+- Lia Chappell, Postdoctoral Fellow - Cancer, Ageing and Somatic Mutations Team
+- Andrew Bassett, Head of Cellular Research - Cellular and Gene Editing Research Team
+- Kim Gurwitz, Scientific Training Lead - EMBL-EBI Training Team
 - Sam Shingles, Science Engagement Officer - Engagement and Society Team
 
  
