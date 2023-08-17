@@ -32,7 +32,7 @@ _Aaron started working in a lab straight after graduating from the University of
 
 _Jorge joined Wellcome Connecting Science in October 2021 as an Education Developer working on COG-Train courses. Jorge’ role is to create and coordinate virtual courses and remote classrooms on all aspects of SARS-CoV-2 sequencing and analysis.  Jorge holds a PhD Human Genetics and Bioinformatics from the Sydney Brenner Institute for Molecular Bioscience. His research focused on pharmacogenomics in African populations and the interpretation of genetic variants which could be used for precision medicine strategies. He enjoys community outreach and engagement, and loves sharing how genomic knowledge can be used to enrich the world._
 
-![placeholder image of instructors](modules/img/Placeholder_image.png)
+![placeholder image of instructors](modules/img/Instructors_image.png)
 
 <p style="text-align: center;">
 <i>Top Row: Jorge Batista da Rocha, Aaron Dean</i>
