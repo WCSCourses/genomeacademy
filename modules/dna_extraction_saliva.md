@@ -28,4 +28,4 @@ In this simple protocol we will be using household items to extract DNA from you
     
 7. Use a pipette to spool up the cloudy, snot-like material that has formed in the glass
 
-This your DNA.
+This is your DNA.
