@@ -22,7 +22,7 @@ _Cindy is a Science Engagement Officer at Wellcome Connecting Science, based at 
 
 - **Cassandra Soo**, Laboratory Courses Manager - Learning and Training Team
 
-_Placeholer text_
+_Cassandra has been the Laboratory Courses Manager of Wellcome Connecting Science since March 2022. It’s her job to assist with the development and to facilitate both campus-based and global advanced laboratory courses utilising her experience in facilities management and research background. Her PhD focused on the genetics of human cognitive function, and she has a deep interest in the genomics of neurological and psychiatric disorders. She’s been involved with community outreach projects in the past and believes that working for Connecting Science has a direct impact on the lives of potential and current researchers and professionals in the field of genomics._
  
 - **Aaron Dean**, Laboratory Assistant - Learning and Training Team
 
@@ -74,7 +74,7 @@ In this section you will find all the materials used during the course so you ca
 [Online Manual - Mod4l QC](Modules/)
 
 
-# Further Readimg and Useful resources      
+# Further Reading and Useful resources      
 Below are links to some further reading and resources
 
 ## DNA 101
