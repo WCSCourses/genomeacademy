@@ -1,4 +1,4 @@
-![WCS Logo](modules/img/WCS_Logo-Primary_Black.jpg)
+![WCS Logo](img/WCS_Logo-Primary_Black.jpg)
 
 # DNA extraction protocol - saliva
 
