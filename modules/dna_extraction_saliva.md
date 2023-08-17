@@ -1,5 +1,3 @@
-![WCS Logo](img/WCS_Logo-Primary_Black.jpg)
-
 # DNA extraction protocol - saliva
 
 In this simple protocol we will be using household items to extract DNA from you own saliva sample.
