@@ -36,7 +36,8 @@ _Jorge joined Wellcome Connecting Science in October 2021 as an Education Develo
 
 <p style="text-align: center;">
 <i>Top Row: Fran Gale, Cindy Smidt, Sam Shingles</i>
-<i>Bottom Row: Cassandra Soo, Aarpn Dean, Jorge Batista da Rocha</i>
+ 
+<i>Bottom Row: Cassandra Soo, Aaron Dean, Jorge Batista da Rocha</i>
 </p>
 
 ## Speakers
