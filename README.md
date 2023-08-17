@@ -78,18 +78,94 @@ In this section you will find all the materials used during the course so you ca
 Below are links to some further reading and resources
 
 ## DNA 101
-[**What is DNA?**](https://www.yourgenome.org/facts/what-is-dna/)
-[**What does DNA do?**](https://www.yourgenome.org/facts/what-does-dna-do/)
+**What is DNA?**
+
+[Yourgenome - What is DNA](https://www.yourgenome.org/facts/what-is-dna/)
+
+**What does DNA do?**
+
+[Yourgenome - What does DNA do](https://www.yourgenome.org/facts/what-does-dna-do/)
+
+**What is a gene?**
+
+[Yourgenome - What is a gene](https://www.yourgenome.org/facts/what-is-a-gene/)
+
+[Sanger Institute Blog - What is a gene](https://sangerinstitute.blog/2023/08/10/what-is-a-gene/)
+
+**What is gene expression?**
+
+[Yourgenome - What is gene expression](https://www.yourgenome.org/facts/what-is-gene-expression/)
+
+**What is RNA?**
+
+[Yourgenome - What is RNA](https://www.yourgenome.org/facts/what-is-rna/)
+
+**What is RNA splicing?**
+
+[Yourgenome - What is RNA splicing](https://www.yourgenome.org/facts/what-is-rna-splicing/)
+
+**What is PCR?**
+
+[Yourgenome - What is PCR](https://www.yourgenome.org/facts/what-is-pcr-polymerase-chain-reaction/)
+
+**What is Gel electropherisis?**
+
+[Yourgenome - What is Gel eletropherisis](https://www.yourgenome.org/facts/what-is-gel-electrophoresis/)
 
 ## Sequencing resources
+**Sequencing technologies, past, present and future**
+
+[Yourgenome - Sequencing technologies, past, present and future](https://www.yourgenome.org/facts/sequencing-technologies-past-present-and-future/)
+
+**Sequencing at speed (Illumina sequencing)**
+
+[Animation - Sequencing at speed](https://www.yourgenome.org/video/sequencing-at-speed/)
+
+**What is Nanopore sequencing?**
+
+[Yourgenome - What is Nanopore sequencing](https://www.yourgenome.org/facts/what-is-oxford-nanopore-technology-ont-sequencing/)
+
+[Oxford Nanopore - Nanopore sequencing](https://nanoporetech.com/applications/dna-nanopore-sequencing)
+
+**Life in the lab (DNA Pipelines)**
+
+[Video - Life in the lab](https://www.yourgenome.org/video/life-in-the-lab-working-in-a-dna-sequencing-pipeline/)
+
+**What is RNA sequencing?**
+
+[Yourgenome - What is RNA sequencing](https://www.yourgenome.org/facts/what-is-rna-sequencing/)
 
 ## Genome editing
+**What is genome editing?**
+
+[Yourgenome - What is genome editing](https://www.yourgenome.org/facts/what-is-genome-editing/)
+
+**What is CRISPR-Cas9?**
+
+[Yourgenome - What is CRISPR-Cas9](https://www.yourgenome.org/facts/what-is-crispr-cas9/)
+
+**How do we use CRISPR-Cas9 to study diseases?**
+
+[Yourgenome - How do we use CRISPR-Cas9 to study diseases](https://www.yourgenome.org/facts/how-do-we-use-crispr-gene-editing-to-study-diseases/)
+
+**My career in cellular operations**
+
+[Video - My career in cellular operations](https://www.yourgenome.org/video/my-career-in-genomics-cellular-operations/)
 
 ## Bioinformatics
+**What is bioinformatics**
 
+[Yourgenome - What is bioinformatics](https://www.yourgenome.org/facts/what-is-bioinformatics-and-how-do-we-use-it/)
 
+**My career in bioinformatics**
+
+[Video - My career in bioinformatics](https://www.yourgenome.org/video/my-career-in-genomics-bioinformatics/)
  
 # Questionnaires
+
+Pre Visit Questionnaire
+
+Post Visit Questionnaire
 
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
