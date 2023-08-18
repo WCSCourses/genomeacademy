@@ -1,3 +1,5 @@
+[Visual Assitive Version](modules/visual_assistive_main_page.md)
+
 # Genome Academy
 
 Welcome to the Genome Academy, a three day programme that will provide an in-depth look into genomics, with a  particular focus on how we translate DNA into Data.  
@@ -53,22 +55,21 @@ _Jorge joined Wellcome Connecting Science in October 2021 as an Education Develo
 - Kim Gurwitz, Scientific Training Lead - EMBL-EBI Training Team
  
 ## Detailed timetable
-You can view the full timetable here: [Genome Academy 22-24 August Student programme .docx.pdf](https://github.com/WCSCourses/genomeacademy/files/12335532/Genome.Academy.22-24.August.Student.programme.docx.pdf)
+You can view the full timetable here: [Genome Academy 22-24 August Student programme](modules/Genome Academy 22-24 August Student programme .docx.pdf)
 
 # Course materials
 In this section you will find all the materials used during the course so you can refer to them during the practical sessions and after the course has ended.
 
 **Day 1**   
-[Introduction to campus presentation]()
+[Introduction to campus presentation](modules/Welcome to Genome Academy.pdf)
+
+[DNA to Data Worksheet](modules/DNA_to_ data_worksheet.pdf)
 
 [DNA extraction - Saliva](modules/dna_extraction_saliva.md)     
 
 [DNA extraction - strawberries](modules/dna_extraction_strawberries.md)
 
 [Protocol for performing quick PCR session 1 and 2](modules/quick_pcr_protocol.md)
-
-[Protocol for performing quick PCR session 1 and 2- Visual Aid](modules/visual_aid_quick_pcr.md)
-
 
 **Day 2**  
 [Open Lab Video](https://www.youtube.com/watch?v=M3wY7kvg8i4)
@@ -78,9 +79,9 @@ In this section you will find all the materials used during the course so you ca
 **Day 3**  
 [Online Manual - Mod4l QC](Modules/)
 
-[Ethics and Genomics Presentation]()
+[Ethics and Genomics presentation](modules/Ethics and Genomics - Genome Academy .pdf)
 
-[ABC vs NHS videos]()
+[ABC vs NHS videos](https://societyandethicsresearch.wellcomeconnectingscience.org/project/abc-versus-st-georges-nhs-trust/)
 
 # Further Reading and Useful resources      
 Below are links to some further reading and resources
@@ -171,9 +172,9 @@ Below are links to some further reading and resources
  
 # Questionnaires
 
-Pre Visit Questionnaire
+[Pre-Course Questionnaire](https://forms.gle/2z3iCKuLcNXAE15m7)
 
-Post Visit Questionnaire
+[Post-Course Questionnaire](https://forms.gle/WHpKtjuBSnK4Yvoz6)
 
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
