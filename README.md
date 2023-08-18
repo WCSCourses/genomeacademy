@@ -47,15 +47,13 @@ _Jorge joined Wellcome Connecting Science in October 2021 as an Education Develo
 ## Speakers
 - Petra Korlević, Staff Scientist - Darwin Tree of Life Team
 - Yvette Hooks, Senior Technical Specialist - Cancer, Ageing and Somatic Mutations Team
-- Pantelis Nicola,  
+- Pantelis Nicola, Researcher - Cancer, Ageing and Somatic Mutations Team
 - Lia Chappell, Postdoctoral Fellow - Cancer, Ageing and Somatic Mutations Team
 - Andrew Bassett, Head of Cellular Research - Cellular and Gene Editing Research Team
 - Kim Gurwitz, Scientific Training Lead - EMBL-EBI Training Team
  
 ## Detailed timetable
 You can view the full timetable here: [Genome Academy 22-24 August Student programme .docx.pdf](https://github.com/WCSCourses/genomeacademy/files/12335532/Genome.Academy.22-24.August.Student.programme.docx.pdf)
-
-
 
 # Course materials
 In this section you will find all the materials used during the course so you can refer to them during the practical sessions and after the course has ended.
@@ -74,11 +72,15 @@ In this section you will find all the materials used during the course so you ca
 
 **Day 2**  
 [Open Lab Video](https://www.youtube.com/watch?v=M3wY7kvg8i4)
+
 [Online Manual - Introduction to NGS](Modules/)
   
 **Day 3**  
 [Online Manual - Mod4l QC](Modules/)
 
+[Ethics and Genomics Presentation]()
+
+[ABC vs NHS videos]()
 
 # Further Reading and Useful resources      
 Below are links to some further reading and resources
