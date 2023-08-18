@@ -1,3 +1,5 @@
+[PDF Version of protocol](modules/Protocol for performing quick PCR  session 1 and 2.pdf)
+
 # Session 1: Running a quick PCR
 
 In this session we will use the EDVOTEK Quick PCR kit to amplify Lambda DNA
