@@ -1,4 +1,4 @@
-[PDF Version of protocol](modules/Protocol for performing quick PCR  session 1 and 2.pdf)
+[PDF Version of protocol](Protocol for performing quick PCR  session 1 and 2.pdf)
 
 # Session 1: Running a quick PCR
 
