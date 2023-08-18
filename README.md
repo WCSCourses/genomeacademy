@@ -59,13 +59,13 @@ You can view the full timetable here: [Genome Academy 22-24 August Student progr
 In this section you will find all the materials used during the course so you can refer to them during the practical sessions and after the course has ended.
 
 **Day 1**   
-[DNA extraction - Saliva.docx.pdf](https://github.com/WCSCourses/genomeacademy/files/12335655/DNA.extraction.-.Saliva.docx.pdf)     
+[DNA extraction - Saliva](modules/dna_extraction_saliva.md)     
 
-[DNA extraction - strawberries.pdf](https://github.com/WCSCourses/genomeacademy/files/12335656/DNA.extraction.-.strawberries.pdf)
+[DNA extraction - strawberries](modules/dna_extraction_strawberries.md)
 
-[Protocol for performing quick PCR  session 1 and 2.pdf](https://github.com/WCSCourses/genomeacademy/files/12335662/Protocol.for.performing.quick.PCR.session.1.and.2.pdf)
+[Protocol for performing quick PCR session 1 and 2](modules/quick_pcr_protocol.md)
 
-[Quick PCR protocol - Visual Aid](modules/visual_aid_quick_pcr.md)
+[Protocol for performing quick PCR session 1 and 2- Visual Aid](modules/visual_aid_quick_pcr.md)
 
 
 **Day 2**  
