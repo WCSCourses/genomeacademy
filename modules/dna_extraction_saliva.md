@@ -1,3 +1,5 @@
+[PDF Version of protocol](DNA extraction - Saliva.docx.pdf)
+
 # DNA extraction protocol - saliva
 
 In this simple protocol we will be using household items to extract DNA from you own saliva sample.
