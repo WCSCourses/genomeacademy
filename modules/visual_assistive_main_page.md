@@ -1,4 +1,4 @@
-<body style="background-color:#ffff00;font-size:18px">
+<body style="background-color:#ffff00;font-size:20px">
 </body>
 
 # Genome Academy
@@ -23,6 +23,10 @@ _Fran is the Head of Science Engagement for Wellcome Connecting Science. She man
 
 _Cindy is a Science Engagement Officer at Wellcome Connecting Science, based at the Wellcome Genome Campus. Cindy’s role is to engage students in the field of genomics both in schools and at the Genome Campus by interactive activities and talks from professionals to outline their work and skills needed. Cindy came into this role from previous experience as an Advanced Research Assistant working on malaria, where she found her passion for engaging students and the public in science._
 
+- **Sam Shingles**, Science Engagement Officer - Engagement and Society Team
+
+_Sam works with communities across East Anglia to provide opportunities to explore genomic science and its impact on research, health and society as part of the team at Wellcome Connecting Science on the Wellcome Genome Campus. Sam has previously worked within science centres and on science festivals to create activities and events that connect audiences with research. He has also worked within science policy, supporting local communities and researchers to interact with policymaking. Sam is passionate about providing accessible science to all, empowering communities to navigate the science topics important to them._
+ 
 - **Cassandra Soo**, Laboratory Courses Manager - Learning and Training Team
 
 _Cassandra has been the Laboratory Courses Manager of Wellcome Connecting Science since March 2022. It’s her job to assist with the development and to facilitate both campus-based and global advanced laboratory courses utilising her experience in facilities management and research background. Her PhD focused on the genetics of human cognitive function, and she has a deep interest in the genomics of neurological and psychiatric disorders. She’s been involved with community outreach projects in the past and believes that working for Connecting Science has a direct impact on the lives of potential and current researchers and professionals in the field of genomics._
@@ -46,37 +50,41 @@ _Jorge joined Wellcome Connecting Science in October 2021 as an Education Develo
 ## Speakers
 - Petra Korlević, Staff Scientist - Darwin Tree of Life Team
 - Yvette Hooks, Senior Technical Specialist - Cancer, Ageing and Somatic Mutations Team
-- Pantelis Nicola,  
+- Pantelis Nicola, Researcher - Cancer, Ageing and Somatic Mutations Team
 - Lia Chappell, Postdoctoral Fellow - Cancer, Ageing and Somatic Mutations Team
 - Andrew Bassett, Head of Cellular Research - Cellular and Gene Editing Research Team
 - Kim Gurwitz, Scientific Training Lead - EMBL-EBI Training Team
-- Sam Shingles, Science Engagement Officer - Engagement and Society Team
-
  
 ## Detailed timetable
-You can view the full timetable here: [Genome Academy 22-24 August Student programme .docx.pdf](https://github.com/WCSCourses/genomeacademy/files/12335532/Genome.Academy.22-24.August.Student.programme.docx.pdf)
-
-
+You can view the full timetable here: [Genome Academy 22-24 August Student programme](Genome Academy 22-24 August Student programme .docx.pdf)
 
 # Course materials
 In this section you will find all the materials used during the course so you can refer to them during the practical sessions and after the course has ended.
 
 **Day 1**   
-[DNA extraction - Saliva](modules/dna_extraction_saliva.md)     
+[Introduction to campus presentation](Welcome to Genome Academy.pdf)
 
-[DNA extraction - strawberries](modules/dna_extraction_strawberries.md)
+[DNA to Data Worksheet](DNA_to_ data_worksheet.pdf)
 
-[Protocol for performing quick PCR session 1 and 2](modules/quick_pcr_protocol.md)
+[Lab Practical Skills presentation](Practical skills slides 2023.pdf)
 
-[Protocol for performing quick PCR session 1 and 2- Visual Aid](modules/visual_aid_quick_pcr.md)
+[DNA extraction - Saliva](visual_assistive_dna_extraction_saliva.md)     
 
+[DNA extraction - strawberries](visual_assistive_dna_extraction_strawberries.md)
+
+[Protocol for performing quick PCR session 1 and 2](visual_assistive_quick_pcr.md)
 
 **Day 2**  
+[Open Lab Video](https://www.youtube.com/watch?v=M3wY7kvg8i4)
+
 [Online Manual - Introduction to NGS](Modules/)
   
 **Day 3**  
 [Online Manual - Mod4l QC](Modules/)
 
+[Ethics and Genomics presentation](Ethics and Genomics - Genome Academy .pdf)
+
+[ABC vs NHS videos](https://societyandethicsresearch.wellcomeconnectingscience.org/project/abc-versus-st-georges-nhs-trust/)
 
 # Further Reading and Useful resources      
 Below are links to some further reading and resources
@@ -167,9 +175,9 @@ Below are links to some further reading and resources
  
 # Questionnaires
 
-Pre Visit Questionnaire
+[Pre-Course Questionnaire](https://forms.gle/2z3iCKuLcNXAE15m7)
 
-Post Visit Questionnaire
+[Post-Course Questionnaire](https://forms.gle/WHpKtjuBSnK4Yvoz6)
 
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
