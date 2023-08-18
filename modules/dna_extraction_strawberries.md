@@ -1,3 +1,5 @@
+[PDF Version of protocol](DNA extraction - strawberries.pdf)
+
 # DNA extraction - strawberries
 
 In this practical, you will extract the DNA from strawberries. Strawberries can have up to eight copies of each chromosome and so contain a lot of DNA. When extracted from the strawberry this volume of DNA means it is visible to the naked eye as white threads.
