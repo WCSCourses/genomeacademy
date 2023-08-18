@@ -20,7 +20,7 @@ In this session we will use the EDVOTEK Quick PCR kit to amplify Lambda DNA
 
 8. hand tube to instructor who will load the samples into the Thermocycler
 
-## Programme for hte thermocycler:
+## Programme for the thermocycler:
 
 1. Denaturation at 94<sup>o</sup>C for 3 minutes
 2. 94<sup>o</sup>C cycle for 30 seconds
