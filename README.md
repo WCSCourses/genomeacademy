@@ -65,6 +65,8 @@ In this section you will find all the materials used during the course so you ca
 
 [DNA to Data Worksheet](modules/DNA_to_ data_worksheet.pdf)
 
+[Lab Practical Skills presentation](modules/Practical skills slides 2023.pdf)
+
 [DNA extraction - Saliva](modules/dna_extraction_saliva.md)     
 
 [DNA extraction - strawberries](modules/dna_extraction_strawberries.md)
