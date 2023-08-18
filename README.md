@@ -1,4 +1,4 @@
-[Visual Assitive Version](modules/visual_assistive_main_page.md)
+[Visual Assistive Version](modules/visual_assistive_main_page.md)
 
 # Genome Academy
 
