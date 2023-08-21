@@ -77,11 +77,9 @@ In this section you will find all the materials used during the course so you ca
 **Day 2**  
 [Open Lab Video](https://www.youtube.com/watch?v=M3wY7kvg8i4)
 
-[Online Manual - Introduction to NGS](Modules/)
+[Introduction to MinION sequencing presentation](An Introduction to Minion Sequencing- Genome Academy.pdf)
   
 **Day 3**  
-[Online Manual - Mod4l QC](Modules/)
-
 [Ethics and Genomics presentation](Ethics and Genomics - Genome Academy .pdf)
 
 [ABC vs NHS videos](https://societyandethicsresearch.wellcomeconnectingscience.org/project/abc-versus-st-georges-nhs-trust/)
