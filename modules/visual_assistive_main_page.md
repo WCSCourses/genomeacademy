@@ -74,6 +74,8 @@ In this section you will find all the materials used during the course so you ca
 
 [Protocol for performing quick PCR session 1 and 2](visual_assistive_quick_pcr.md)
 
+[Petra Korlević - BIOSCAN / DToL Presentation](20230822_Bioscan DTOL talk PKorlevic.pdf)
+
 **Day 2**  
 [Open Lab Video](https://www.youtube.com/watch?v=M3wY7kvg8i4)
 
