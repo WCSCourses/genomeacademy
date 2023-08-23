@@ -90,6 +90,10 @@ In this section you will find all the materials used during the course so you ca
 
 [ABC vs NHS videos](https://societyandethicsresearch.wellcomeconnectingscience.org/project/abc-versus-st-georges-nhs-trust/)
 
+[Bioinformatics - Part 1 - Linux, fasta and blasting](modules/bioinformatics_blasting_visassist.md)   
+
+[Bioinformatics - Part 2 - Exploring Taste Receptor Genes](modules/bioinformatics_msa_visassist.md)  
+
 # Further Reading and Useful resources      
 Below are links to some further reading and resources
 
