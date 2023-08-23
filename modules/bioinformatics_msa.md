@@ -50,13 +50,13 @@ in the textbox provided and select WiKi-Gene Name(s) on the dropdown menu above 
 Repeat steps 4 - 14 (changing the species name under the -CHOOSE DATASET- dropdown menu) for each species to get the required protein sequences for all the species listed
 below.
 
-Fugu (Takifugu)
-Opossum (Didelphimorphia)
-Dog (Canis lupus familiaris)
-Human (Homo sapiens)
-Chicken (Gallus gallus domesticus)
-Japanese Medaka (Oryzias latipes)
-Pufferfish (Tetraodontidae) - use (ENSTNIG00000011998, ENSTNIG00000014794, under gene stable ID)
+- Fugu (Takifugu)
+- Opossum (Didelphimorphia)
+- Dog (Canis lupus familiaris)
+- Human (Homo sapiens)
+- Chicken (Gallus gallus domesticus)
+- Japanese Medaka (Oryzias latipes)
+- Pufferfish (Tetraodontidae) - use (ENSTNIG00000011998, ENSTNIG00000014794, under gene stable ID)
 
 Copy and paste all the sequences into a single file and call it all_sequences.fasta.
 
@@ -70,17 +70,17 @@ cat *mart_export.txt > all_sequences.fasta
 **Data Cleaning**
 Then ensembl gene indentifier can be used to translate the organism the gene came from:
 
-ENSTRU	Takifugu rubripes (Fugu) 
+- ENSTRU	Takifugu rubripes (Fugu) 
 
-ENSMOD	Monodelphis domestica (Opossum) 
+- ENSMOD	Monodelphis domestica (Opossum) 
 
-ENSCAF	Canis lupus familiaris (Dog) 
+- ENSCAF	Canis lupus familiaris (Dog) 
 
-ENSGAL	Gallus gallus (Chicken) 
+- ENSGAL	Gallus gallus (Chicken) 
 
-ENSORL	Oryzias latipes (Medaka) 
+- ENSORL	Oryzias latipes (Medaka) 
 
-ENSTNI	Tetraodon nigroviridis (Tetraodon) 
+- ENSTNI	Tetraodon nigroviridis (Tetraodon) 
 
 Do last:
 ENSG0	Homo sapiens (Human) 
@@ -91,6 +91,7 @@ Hit control h to open up the find replace menu, or control f, then select replac
 
 In the search, place the "ENSTRU" symbol, and in the replace option, the species name - Takifugu rubripes (Fugu) for each symbol and species type.
 
+Finally, the web aligner doesnt like spaces in the names of fasta headers, so use the replace tool to replace " " (a space, just hit space) with _ 
 
 
 **Sequence Alignment**
