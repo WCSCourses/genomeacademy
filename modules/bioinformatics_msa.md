@@ -5,7 +5,9 @@ This tutorial has been modified from a tutorial delivered at Scifest Africa by t
 
 You will explore genes for in Taste Receptors across different species! 
 
-Task 1: Obtain the protein sequences for TAS1R3, TAS1R2 and TAS1R1 for the organisms:
+**Task 1:** Retrieve sequences:
+
+Obtain the protein sequences for TAS1R3, TAS1R2 and TAS1R1 for the organisms:
 - Fugu (Takifugu)
 - Opossum (Didelphimorphia)
 - Dog (Canis lupus familiaris)
@@ -64,16 +66,22 @@ if you keep the suffix of mart_export, you can use the command:
 cat *mart_export.txt > all_sequences.fasta
 ```
 
-**Task 3** 
+**Task 2** 
 **Data Cleaning**
 Then ensembl gene indentifier can be used to translate the organism the gene came from:
 
 ENSTRU	Takifugu rubripes (Fugu) 
+
 ENSMOD	Monodelphis domestica (Opossum) 
+
 ENSCAF	Canis lupus familiaris (Dog) 
+
 ENSGAL	Gallus gallus (Chicken) 
+
 ENSORL	Oryzias latipes (Medaka) 
+
 ENSTNI	Tetraodon nigroviridis (Tetraodon) 
+
 Do last:
 ENSG0	Homo sapiens (Human) 
 
@@ -85,7 +93,7 @@ In the search, place the "ENSTRU" symbol, and in the replace option, the species
 
 
 
-**Sequence Alignment (approx. 20 min)**
+**Sequence Alignment**
 
 **Task 3:** Perform a multiple sequence alignment using the sequences you retrieved.
 
