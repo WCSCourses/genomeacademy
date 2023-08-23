@@ -108,11 +108,38 @@ grep ">Gene_A" -A1 mIxUp_FiLe_hahahaha.fasta > Gene_A_command.fasta
 Repeat the commands for Gene B (hint - you can replace Gene_A with Gene_B) 
 
 **Task 3**
+Now its a bit trickier to figure out which sequence is is human/animal and which is plant by looking at them. It would take AGES for a human to do by checking the sequence manually against other gene files. 
+
+Bioinformaticians use a database of genes and software tools to query their unknown genes. Lets try find out which species Gene A is from by using a tool that can search gene databases called BLAST (Basic Local Alignment Search Tool)
 
 Go to [https://blast.ncbi.nlm.nih.gov/Blast.cgi](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
-Use Paste the sequence of Gene A into the box saying enter Query Sequence. Then on the bottom of the page, click the "BLAST" button. 
+Use copy and paste to sequence of Gene A into the box saying Enter Query Sequence. Then on the bottom of the page, click the "BLAST" button. You dont need to change any of the settings. 
 
-Wait for the results - what species does gene A come from? 
+Wait for the results - what species does gene A come from? (hint, look at the top hits in the list)
 
-Repeat for Gene B
+Repeat for Gene B then answer - 
+
+- Gene A is from species:
+
+- Gene B is from species:
+
+**Task 4**
+
+As well as searching our gene sequence across a whole database, we can also query them against each other. 
+
+Go to the website:
+[https://www.ebi.ac.uk/Tools/psa/emboss_water/](https://www.ebi.ac.uk/Tools/psa/emboss_water/)
+
+and select to compare a pair of "DNA" sequences. 
+
+Paste the Gene A sequence into the first box. 
+
+Paste the Gene B sequence into the second box 
+
+then click Submit, and wait for the job to run. 
+
+What is the identity? Did you expect that level between the two species?
+
+
+Well done! You have completed the tasks! Please ask many questions, and even try with other genes if you like. 
