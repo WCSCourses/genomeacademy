@@ -79,6 +79,11 @@ In this section you will find all the materials used during the course so you ca
 [Open Lab Video](https://www.youtube.com/watch?v=M3wY7kvg8i4)
 
 [Introduction to MinION sequencing presentation](modules/An Introduction to Minion Sequencing- Genome Academy.pdf)
+
+[Single Cell Sequencing - Lia Chappell](modules/2023.08.23.Lia_Single_Cell_talk.pdf)
+
+[A CRISPR way to understand genetic disease - Andrew Bassett](modules/2023_08_22 school talk.pdf)
+
   
 **Day 3**  
 [Ethics and Genomics presentation](modules/Ethics and Genomics - Genome Academy .pdf)
