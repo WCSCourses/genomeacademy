@@ -1,0 +1,19 @@
+awk -F "\t" -v OFS="\t" '
+    FNR==NR {                     # Process the first input file (species file)
+        species[$1] = $2;
+        next;
+    }
+    /^>/ {
+        id = substr($0, 2);  # Remove the leading ">"
+
+        if (id in species) {
+            print $0, species[id];
+        } else {
+            print;
+        }
+    }
+    !/^>/ {
+        print;
+    }
+' ensembl_gene_prefixes.txt all_ens_gene_sequences.fasta   # Replace with actual filepaths
+
