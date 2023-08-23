@@ -1,18 +1,25 @@
+# Welcome to Bioinformatics - Part 2 
+## Introduction to Multiple Sequence Aligmnents and Phylogeny 
+
+This tutorial has been modified from a tutorial delivered at Scifest Africa by the [Student Council of the South African Society for Bioinformatics](SASBi)(http://sasbistudents.weebly.com).
+
+You will explore genes for in Taste Receptors across different species! 
 
 Task 1: Obtain the protein sequences for TAS1R3, TAS1R2 and TAS1R1 for the organisms.
-1 Fugu
-2 Pufferfish
-3 Opossum
-4 Dog
-5 Human
-6 Chicken
-7 Medaka
+-1 Fugu
+-2 Pufferfish
+-3 Opossum
+-4 Dog
+-5 Human
+-6 Chicken
+-7 Medaka
+
 Procedure:
-1. Go to http://darwin.bioinf.wits.ac.za or http://146.141.177.10/
+1. Go to [https://www.ensembl.org/biomart/](https://www.ensembl.org/biomart/)
 2. Select Biomart on the left menu.
 3. Select Dataset on the left menu.
-4. Select Ensembl Genes 75 under the -CHOOSE DATABASE- dropdown menu.
-5. Select Homo sapien genes (GRCh37.p13) under the -CHOOSE DATASET- dropdown
+4. Select Ensembl Genes 110 under the -CHOOSE DATABASE- dropdown menu.
+5. Select Human Genes (GRCh38.p14) under the -CHOOSE DATASET- dropdown
 menu.
 6. On the left menu, select Filters to filter out the genes you are interested in.
 7. Expand GENES and tick ID list limit [Max 500 advised].
