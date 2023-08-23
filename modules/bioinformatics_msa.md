@@ -1,7 +1,7 @@
 # Welcome to Bioinformatics - Part 2 
 ## Introduction to Multiple Sequence Aligmnents and Phylogeny 
 
-This tutorial has been modified from a tutorial delivered at Scifest Africa by the [Student Council of the South African Society for Bioinformatics](SASBi)(http://sasbistudents.weebly.com)
+This tutorial has been modified from a tutorial delivered at Scifest Africa by the [Student Council of the South African Society for Bioinformatics - SASBI-sc](http://sasbistudents.weebly.com)
 
 You will explore genes for in Taste Receptors across different species! 
 
