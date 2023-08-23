@@ -92,7 +92,7 @@ In this section you will find all the materials used during the course so you ca
 
 [Bioinformatics - Part 1 - Linux, fasta and blasting](modules/bioinformatics_blasting.md)   
 
-[Bioinformatics - Part 2 - Evolution of Taste Receptor Genes](modules/modules/bioinformatics_msa.md)    
+[Bioinformatics - Part 2 - Evolution of Taste Receptor Genes](modules/bioinformatics_msa.md)    
 
 
 # Further Reading and Useful resources      
