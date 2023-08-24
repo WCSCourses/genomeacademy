@@ -94,6 +94,8 @@ In this section you will find all the materials used during the course so you ca
 
 [Bioinformatics - Part 2 - Exploring Taste Receptor Genes](bioinformatics_msa_visassist.md)  
 
+[Unlocking the potential of big data in biology: Applications of bioinformatics - Kim Gurwitz](WCS Public Engagement workshop - Kim Gurwitz EMBL-EBI 24082023.pdf)
+
 # Further Reading and Useful resources      
 Below are links to some further reading and resources
 
