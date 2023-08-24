@@ -18,7 +18,7 @@ Obtain the protein sequences for TAS1R3, TAS1R2 and TAS1R1 for the organisms:
 
 
 Procedure:
-1. Go to [https://www.ensembl.org/biomart/](https://www.ensembl.org/biomart/)
+1. Go to [https://www.ensembl.org/biomart/martview](https://www.ensembl.org/biomart/martview)
 2. Select Dataset on the left menu.
 3. Select Ensembl Genes 110 under the -CHOOSE DATABASE- dropdown menu.
 4. Select Human Genes (GRCh38.p14) under the -CHOOSE DATASET- dropdown
