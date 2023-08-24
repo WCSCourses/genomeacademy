@@ -40,7 +40,8 @@ in the textbox provided and select WiKi-Gene Name(s) on the dropdown menu above 
 11. Under the Gene Information section tick:
 - Gene Stable ID
 - Gene Name
-12. Under the 
+12. Under the Exon information - select
+  -CDS Length
 13. Click on Results towards the top of the page - you will get a list of protein sequences for the gene list you provided.
 14. Export results to a file by selecting File then FASTA from the dropdown menus in the Export all results to section.
 15. Click on Go
