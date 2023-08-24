@@ -96,6 +96,10 @@ In this section you will find all the materials used during the course so you ca
 
 [Unlocking the potential of big data in biology: Applications of bioinformatics - Kim Gurwitz](WCS Public Engagement workshop - Kim Gurwitz EMBL-EBI 24082023.pdf)
 
+[Function Finders BLAST - Bioinformatics Activity](https://www.yourgenome.org/activities/function-finders-blast/)
+
+[Our Animal DNA - Bioinformatics Activity](https://www.yourgenome.org/activities/our-animal-dna/)
+
 # Further Reading and Useful resources      
 Below are links to some further reading and resources
 
@@ -182,6 +186,20 @@ Below are links to some further reading and resources
 **My career in bioinformatics**
 
 [Video - My career in bioinformatics](https://www.yourgenome.org/video/my-career-in-genomics-bioinformatics/)
+
+## Citizens' Jury on Human Embryo Editing
+
+[Citizens' Jury Webpage](https://societyandethicsresearch.wellcomeconnectingscience.org/project/uk-citizens-jury-on-genome-editing/)
+
+[In Our Lifetime - Film Premiere](https://www.eventbrite.co.uk/e/in-our-lifetime-film-premiere-and-call-to-action-tickets-662924243257?aff=oddtdtcreator)
+
+Details:
+
+Wednesday 20th September 2023 15.30 - 17.30 BST
+
+Arts Picturehouse Cinema, 38-39 Saint Andrew's Street Cambridge CB2 3AR
+
+In September 2022, 21 people from across the UK spent a week together on the Wellcome Genome Campus, Hinxton just outside Cambridge. None of them had met before. Their backgrounds, opinions, and stories were wildly different. But they all had lived experience of serious inherited health conditions – as patients, as carriers, or as carers. Together they became the UK’s first Citizens' Jury on Human Embryo Editing, tasked with writing policy recommendations on whether (or not!) the UK government should consider changing the law to allow certain serious genetic conditions to be ‘edited out’ of a family tree forever. The stars of the documentary, the jurors, will be present at the film screening and the audience will be invited to consider if and how patients can impact legislation that affects individual families with inherited disease.
  
 # Questionnaires
 
