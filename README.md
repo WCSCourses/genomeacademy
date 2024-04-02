@@ -91,8 +91,6 @@ In this section you will find all the materials used during the course so you ca
 
 [Bioinformatics - Part 2 - Evolution of Taste Receptor Genes](modules/bioinformatics_msa.md) 
 
-[Unlocking the potential of big data in biology: Applications of bioinformatics - Kim Gurwitz](modules/WCS Public Engagement workshop - Kim Gurwitz EMBL-EBI 24082023.pdf)
-
 [Function Finders BLAST - Bioinformatics Activity](https://www.yourgenome.org/activities/function-finders-blast/)
 
 [Our Animal DNA - Bioinformatics Activity](https://www.yourgenome.org/activities/our-animal-dna/)
