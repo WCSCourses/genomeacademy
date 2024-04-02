@@ -151,7 +151,7 @@ Below are links to some further reading and resources
 
 **Life in the lab (DNA Pipelines)**
 
-[Video - Life in the lab](https://www.yourgenome.org/video/life-in-the-lab-working-in-a-dna-sequencing-pipeline/)
+[Video - Life in the lab](https://www.yourgenome.org/theme/life-in-the-lab-working-in-dna-sequencing-pipeline/)
 
 **What is RNA sequencing?**
 
