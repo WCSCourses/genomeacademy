@@ -38,7 +38,7 @@ _Jorge joined Wellcome Connecting Science in October 2021 as an Education Develo
 
 _Chris is a Laboratory Operations Officer, helping to organise and facilitate lab practical sessions for courses. Previously he graduated with a BSc in Biochemistry worked in hospital microbiology and COVID diagnostics._
 
-![placeholder image of instructors](modules/img/Instructors_24_image.png)
+![placeholder image of instructors] (modules/img/instructors_24_image.png)
 
 <p style="text-align: center;">
 <i>Top Row: Fran Gale, Sam Shingles, Casandra Soo </i>
