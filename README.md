@@ -62,7 +62,7 @@ You can view the full timetable here:
 In this section you will find all the materials used during the course so you can refer to them during the practical sessions and after the course has ended.
 
 **Day 1**   
-[Introduction to campus presentation](modules/Welcome to Genome Academy.pdf)
+[Introduction to campus presentation](modules/Welcome to Genome Academy april 24.pdf)
 
 [DNA to Data Worksheet](modules/DNA_to_ data_worksheet.pdf)
 
