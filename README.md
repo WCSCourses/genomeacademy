@@ -34,11 +34,11 @@ _Aaron started working in a lab straight after graduating from the University of
 
 _Jorge joined Wellcome Connecting Science in October 2021 as an Education Developer working on COG-Train courses. Jorge’ role is to create and coordinate virtual courses and remote classrooms on all aspects of SARS-CoV-2 sequencing and analysis.  Jorge holds a PhD Human Genetics and Bioinformatics from the Sydney Brenner Institute for Molecular Bioscience. His research focused on pharmacogenomics in African populations and the interpretation of genetic variants which could be used for precision medicine strategies. He enjoys community outreach and engagement, and loves sharing how genomic knowledge can be used to enrich the world._
 
-**Chris Adamson**, Laboratory Operations Officer - Learning and Training Team
+- **Chris Adamson**, Laboratory Operations Officer - Learning and Training Team
 
 _Chris is a Laboratory Operations Officer, helping to organise and facilitate lab practical sessions for courses. Previously he graduated with a BSc in Biochemistry worked in hospital microbiology and COVID diagnostics._
 
-![placeholder image of instructors](modules/img/Instructors_image.png)
+![placeholder image of instructors](modules/img/Instructors_24_image.png)
 
 <p style="text-align: center;">
 <i>Top Row: Fran Gale, Sam Shingles, Casandra Soo </i>
