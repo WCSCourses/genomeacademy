@@ -18,10 +18,6 @@ In this section find out who your instructors will be and what you will be cover
 
 _Fran is the Head of Science Engagement for Wellcome Connecting Science. She manages the Science engagement team and develops training programmes on Genomics for Science teachers.  Fran has been working in Science engagement for over 20 years and before her role here on campus used to run the education department at Colchester Zoo!  She studied Biological Sciences at Exeter University and has an MSc in Science Comunication from UWE, Bristol._
 
-- **Cindy Smidt**, Science Engagement Officer - Engagement and Society Team
-
-_Cindy is a Science Engagement Officer at Wellcome Connecting Science, based at the Wellcome Genome Campus. Cindy’s role is to engage students in the field of genomics both in schools and at the Genome Campus by interactive activities and talks from professionals to outline their work and skills needed. Cindy came into this role from previous experience as an Advanced Research Assistant working on malaria, where she found her passion for engaging students and the public in science._
-
 - **Sam Shingles**, Science Engagement Officer - Engagement and Society Team
 
 _Sam works with communities across East Anglia to provide opportunities to explore genomic science and its impact on research, health and society as part of the team at Wellcome Connecting Science on the Wellcome Genome Campus. Sam has previously worked within science centres and on science festivals to create activities and events that connect audiences with research. He has also worked within science policy, supporting local communities and researchers to interact with policymaking. Sam is passionate about providing accessible science to all, empowering communities to navigate the science topics important to them._
@@ -38,12 +34,16 @@ _Aaron started working in a lab straight after graduating from the University of
 
 _Jorge joined Wellcome Connecting Science in October 2021 as an Education Developer working on COG-Train courses. Jorge’ role is to create and coordinate virtual courses and remote classrooms on all aspects of SARS-CoV-2 sequencing and analysis.  Jorge holds a PhD Human Genetics and Bioinformatics from the Sydney Brenner Institute for Molecular Bioscience. His research focused on pharmacogenomics in African populations and the interpretation of genetic variants which could be used for precision medicine strategies. He enjoys community outreach and engagement, and loves sharing how genomic knowledge can be used to enrich the world._
 
+**Chris Adamson**, Laboratory Operations Officer - Learning and Training Team
+
+_Chris is a Laboratory Operations Officer, helping to organise and facilitate lab practical sessions for courses. Previously he graduated with a BSc in Biochemistry worked in hospital microbiology and COVID diagnostics._
+
 ![placeholder image of instructors](modules/img/Instructors_image.png)
 
 <p style="text-align: center;">
-<i>Top Row: Fran Gale, Cindy Smidt, Sam Shingles</i>
+<i>Top Row: Fran Gale, Sam Shingles, Casandra Soo </i>
  
-<i>Bottom Row: Cassandra Soo, Aaron Dean, Jorge Batista da Rocha</i>
+<i>Bottom Row: Aaron Dean, Chris Adamson, Jorge Batista da Rocha</i>
 </p>
 
 ## Speakers
