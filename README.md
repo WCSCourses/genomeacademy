@@ -106,46 +106,46 @@ Below are links to some further reading and resources
 
 **What does DNA do?**
 
-[Yourgenome - What does DNA do](https://www.yourgenome.org/facts/what-does-dna-do/)
+[Yourgenome - What does DNA do](https://www.yourgenome.org/theme/what-does-dna-do/)
 
 **What is a gene?**
 
-[Yourgenome - What is a gene](https://www.yourgenome.org/facts/what-is-a-gene/)
+[Yourgenome - What is a gene](https://www.yourgenome.org/theme/what-is-a-gene/)
 
 [Sanger Institute Blog - What is a gene](https://sangerinstitute.blog/2023/08/10/what-is-a-gene/)
 
 **What is gene expression?**
 
-[Yourgenome - What is gene expression](https://www.yourgenome.org/facts/what-is-gene-expression/)
+[Yourgenome - What is gene expression](https://www.yourgenome.org/theme/what-is-gene-expression/)
 
 **What is RNA?**
 
-[Yourgenome - What is RNA](https://www.yourgenome.org/facts/what-is-rna/)
+[Yourgenome - What is RNA](https://www.yourgenome.org/theme/what-is-rna/)
 
 **What is RNA splicing?**
 
-[Yourgenome - What is RNA splicing](https://www.yourgenome.org/facts/what-is-rna-splicing/)
+[Yourgenome - What is RNA splicing](https://www.yourgenome.org/theme/what-is-rna-splicing/)
 
 **What is PCR?**
 
 [Yourgenome - What is PCR](https://www.yourgenome.org/facts/what-is-pcr-polymerase-chain-reaction/)
 
-**What is Gel electropherisis?**
+**What is Gel electrophoresis?**
 
-[Yourgenome - What is Gel eletropherisis](https://www.yourgenome.org/facts/what-is-gel-electrophoresis/)
+[Yourgenome - What is Gel eletropherisis](https://www.yourgenome.org/theme/what-is-gel-electrophoresis/)
 
 ## Sequencing resources
 **Sequencing technologies, past, present and future**
 
-[Yourgenome - Sequencing technologies, past, present and future](https://www.yourgenome.org/facts/sequencing-technologies-past-present-and-future/)
+[Yourgenome - Sequencing technologies, past, present and future](https://www.yourgenome.org/theme/sequencing-technologies-past-present-and-future/)
 
 **Sequencing at speed (Illumina sequencing)**
 
-[Animation - Sequencing at speed](https://www.yourgenome.org/video/sequencing-at-speed/)
+[Animation - Sequencing at speed](https://www.yourgenome.org/theme/sequencing-at-speed/)
 
 **What is Nanopore sequencing?**
 
-[Yourgenome - What is Nanopore sequencing](https://www.yourgenome.org/facts/what-is-oxford-nanopore-technology-ont-sequencing/)
+[Yourgenome - What is Nanopore sequencing](https://www.yourgenome.org/theme/what-is-oxford-nanopore-technology-ont-sequencing/)
 
 [Oxford Nanopore - Nanopore sequencing](https://nanoporetech.com/applications/dna-nanopore-sequencing)
 
@@ -155,47 +155,38 @@ Below are links to some further reading and resources
 
 **What is RNA sequencing?**
 
-[Yourgenome - What is RNA sequencing](https://www.yourgenome.org/facts/what-is-rna-sequencing/)
+[Yourgenome - What is RNA sequencing](https://www.yourgenome.org/theme/what-is-rna-sequencing/)
 
 ## Genome editing
 **What is genome editing?**
 
-[Yourgenome - What is genome editing](https://www.yourgenome.org/facts/what-is-genome-editing/)
+[Yourgenome - What is genome editing](https://www.yourgenome.org/theme/what-is-genome-editing/)
 
 **What is CRISPR-Cas9?**
 
-[Yourgenome - What is CRISPR-Cas9](https://www.yourgenome.org/facts/what-is-crispr-cas9/)
+[Yourgenome - What is CRISPR-Cas9](https://www.yourgenome.org/theme/what-is-crispr-cas9/)
 
 **How do we use CRISPR-Cas9 to study diseases?**
 
-[Yourgenome - How do we use CRISPR-Cas9 to study diseases](https://www.yourgenome.org/facts/how-do-we-use-crispr-gene-editing-to-study-diseases/)
+[Yourgenome - How do we use CRISPR-Cas9 to study diseases](https://www.yourgenome.org/theme/how-do-we-use-crispr-gene-editing-to-study-diseases/)
 
 **My career in cellular operations**
 
-[Video - My career in cellular operations](https://www.yourgenome.org/video/my-career-in-genomics-cellular-operations/)
+[Video - My career in cellular operations](https://www.yourgenome.org/theme/my-career-in-genomics-cellular-operations/)
 
 ## Bioinformatics
 **What is bioinformatics**
 
-[Yourgenome - What is bioinformatics](https://www.yourgenome.org/facts/what-is-bioinformatics-and-how-do-we-use-it/)
+[Yourgenome - What is bioinformatics](https://www.yourgenome.org/theme/what-is-bioinformatics-and-how-do-we-use-it/)
 
 **My career in bioinformatics**
 
-[Video - My career in bioinformatics](https://www.yourgenome.org/video/my-career-in-genomics-bioinformatics/)
+[Video - My career in bioinformatics](https://www.yourgenome.org/theme/my-career-in-genomics-bioinformatics/)
 
 ## Citizens' Jury on Human Embryo Editing
 
 [Citizens' Jury Webpage](https://societyandethicsresearch.wellcomeconnectingscience.org/project/uk-citizens-jury-on-genome-editing/)
 
-[In Our Lifetime - Film Premiere](https://www.eventbrite.co.uk/e/in-our-lifetime-film-premiere-and-call-to-action-tickets-662924243257?aff=oddtdtcreator)
-
-Details:
-
-Wednesday 20th September 2023 15.30 - 17.30 BST
-
-Arts Picturehouse Cinema, 38-39 Saint Andrew's Street Cambridge CB2 3AR
-
-In September 2022, 21 people from across the UK spent a week together on the Wellcome Genome Campus, Hinxton just outside Cambridge. None of them had met before. Their backgrounds, opinions, and stories were wildly different. But they all had lived experience of serious inherited health conditions – as patients, as carriers, or as carers. Together they became the UK’s first Citizens' Jury on Human Embryo Editing, tasked with writing policy recommendations on whether (or not!) the UK government should consider changing the law to allow certain serious genetic conditions to be ‘edited out’ of a family tree forever. The stars of the documentary, the jurors, will be present at the film screening and the audience will be invited to consider if and how patients can impact legislation that affects individual families with inherited disease.
 
 # Questionnaires
 
