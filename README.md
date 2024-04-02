@@ -47,12 +47,13 @@ _Jorge joined Wellcome Connecting Science in October 2021 as an Education Develo
 </p>
 
 ## Speakers
-- Petra Korlević, Staff Scientist - Darwin Tree of Life Team
+- Michael Ansah, Postdoctoral Fellow - Tree of Life Team
 - Yvette Hooks, Senior Technical Specialist - Cancer, Ageing and Somatic Mutations Team
-- Pantelis Nicola, Researcher - Cancer, Ageing and Somatic Mutations Team
+- Maria Torra I Benach, PhD Student - Cancer, Ageing and Somatic Mutations Team
+- Mimy Pham, PhD Student - Cancer, Ageing and Somatic Mutations team
 - Lia Chappell, Postdoctoral Fellow - Cancer, Ageing and Somatic Mutations Team
-- Andrew Bassett, Head of Cellular Research - Cellular and Gene Editing Research Team
-- Kim Gurwitz, Scientific Training Lead - EMBL-EBI Training Team
+- Sam Washer, Postdoctoral Fellow - Gene Editing and Cellular Research and Development Team
+- Anna Swan, Scientific Training Officer - EMBL-EBI Training Team
  
 ## Detailed timetable
 You can view the full timetable here: [Genome Academy 22-24 August Student programme](modules/Genome Academy 22-24 August Student programme .docx.pdf)
