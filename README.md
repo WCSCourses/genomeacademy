@@ -106,7 +106,7 @@ Below are links to some further reading and resources
 
 **What does DNA do?**
 
-[Yourgenome - What does DNA do](https://www.yourgenome.org/theme/what-does-dna-do/)
+[Yourgenome - What does DNA do](https://www.yourgenome.org/theme/how-is-dna-turned-into-protein-the-central-dogma-of-molecular-biology/)
 
 **What is a gene?**
 
