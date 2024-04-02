@@ -56,7 +56,7 @@ _Jorge joined Wellcome Connecting Science in October 2021 as an Education Develo
 - Anna Swan, Scientific Training Officer - EMBL-EBI Training Team
  
 ## Detailed timetable
-You can view the full timetable here: [Genome Academy 22-24 August Student programme](modules/Genome Academy 22-24 August Student programme .docx.pdf)
+You can view the full timetable here: 
 
 # Course materials
 In this section you will find all the materials used during the course so you can refer to them during the practical sessions and after the course has ended.
@@ -67,14 +67,11 @@ In this section you will find all the materials used during the course so you ca
 [DNA to Data Worksheet](modules/DNA_to_ data_worksheet.pdf)
 
 [Lab Practical Skills presentation](modules/Practical skills slides 2023.pdf)
-
-[DNA extraction - Saliva](modules/dna_extraction_saliva.md)     
-
+  
 [DNA extraction - strawberries](modules/dna_extraction_strawberries.md)
 
 [Protocol for performing quick PCR session 1 and 2](modules/quick_pcr_protocol.md)
 
-[Petra Korlević - BIOSCAN / DToL Presentation](modules/20230822_Bioscan DTOL talk PKorlevic.pdf)
 
 **Day 2**  
 [Open Lab Video](https://www.youtube.com/watch?v=M3wY7kvg8i4)
@@ -83,7 +80,6 @@ In this section you will find all the materials used during the course so you ca
 
 [Single Cell Sequencing - Lia Chappell](modules/2023.08.23.Lia_Single_Cell_talk.pdf)
 
-[A CRISPR way to understand genetic disease - Andrew Bassett](modules/2023_08_22 school talk.pdf)
 
   
 **Day 3**  
