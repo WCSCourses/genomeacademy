@@ -102,7 +102,7 @@ Below are links to some further reading and resources
 ## DNA 101
 **What is DNA?**
 
-[Yourgenome - What is DNA](https://www.yourgenome.org/facts/what-is-dna/)
+[Yourgenome - What is DNA](https://www.yourgenome.org/theme/what-is-dna/)
 
 **What does DNA do?**
 
