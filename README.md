@@ -93,8 +93,6 @@ In this section you will find all the materials used during the course so you ca
 
 [Function Finders BLAST - Bioinformatics Activity](https://www.yourgenome.org/activities/function-finders-blast/)
 
-[Our Animal DNA - Bioinformatics Activity](https://www.yourgenome.org/activities/our-animal-dna/)
-
 
 # Further Reading and Useful resources      
 Below are links to some further reading and resources
