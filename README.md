@@ -56,7 +56,7 @@ _Chris is a Laboratory Operations Officer, helping to organise and facilitate la
 - Anna Swan, Scientific Training Officer - EMBL-EBI Training Team
  
 ## Detailed timetable
-You can view the full timetable here: 
+You can view the full timetable here: (modules/Genome Academy 9-11th April Student programme.pdf) 
 
 # Course materials
 In this section you will find all the materials used during the course so you can refer to them during the practical sessions and after the course has ended.
