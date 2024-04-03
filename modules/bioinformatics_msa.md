@@ -20,7 +20,7 @@ Obtain the protein sequences for TAS1R3, TAS1R2 and TAS1R1 for the organisms:
 Procedure:
 1. Go to [https://www.ensembl.org/biomart/martview](https://www.ensembl.org/biomart/martview)
 2. Select Dataset on the left menu.
-3. Select Ensembl Genes 110 under the -CHOOSE DATABASE- dropdown menu.
+3. Select Ensembl Genes 111 under the -CHOOSE DATABASE- dropdown menu.
 4. Select Human Genes (GRCh38.p14) under the -CHOOSE DATASET- dropdown
 menu.
 5. On the left menu, select Filters to filter out the genes you are interested in.
@@ -48,16 +48,35 @@ in the textbox provided and select WiKi-Gene Name(s) on the dropdown menu above 
 16. A "mart_export.txt" file will download - you can rename this to the species you started with (human)
 
 
-Repeat steps 4 - 14 (changing the species name under the -CHOOSE DATASET- dropdown menu) for each species to get the required protein sequences for all the species listed
+Repeat steps 4 - 14 (changing the species name under the -CHOOSE DATASET- dropdown menu) for each species to get the required protein sequences for the three species listed
 below.
 
 - Fugu (Takifugu)
 - Opossum (Didelphimorphia)
 - Dog (Canis lupus familiaris)
-- Human (Homo sapiens)
+
+Then for these species you can right click and retrieve as follows
 - Chicken (Gallus gallus domesticus)
+```
+wget https://raw.githubusercontent.com/WCSCourses/genomeacademy/main/course_data/chicken_mart_export.txt
+```
+Or - [right click here for Chicken and open in new tab](https://raw.githubusercontent.com/WCSCourses/genomeacademy/main/course_data/chicken_mart_export.txt)
+then right click on this page and say "save as" the name the file: chicken_mart_export.txt
+
 - Japanese Medaka (Oryzias latipes)
-- Pufferfish (Tetraodontidae) - use (ENSTNIG00000011998, ENSTNIG00000014794, under gene stable ID)
+```
+wget https://raw.githubusercontent.com/WCSCourses/genomeacademy/main/course_data/japan_medaka_mart_export.txt
+```
+Or - [right click here for Japanese Medaka and open in new tab](https://raw.githubusercontent.com/WCSCourses/genomeacademy/main/course_data/japan_medaka_mart_export.txt)
+then right click on this page and say "save as" the name the file: japan_medaka_export.txt
+
+- Pufferfish (Tetraodontidae) - If using biomart - (ENSTNIG00000011998, ENSTNIG00000014794, under gene stable ID)
+```
+wget https://raw.githubusercontent.com/WCSCourses/genomeacademy/main/course_data/pufferfish_mart_export.txt
+```
+Or - [right click here for Pufferfish and open in new tab](https://raw.githubusercontent.com/WCSCourses/genomeacademy/main/course_data/pufferfish_mart_export.txt)
+then right click on this page and say "save as" the name the file: pufferfish_mart_export.txt
+
 
 Copy and paste all the sequences into a single file and call it all_sequences.fasta.
 
@@ -100,12 +119,14 @@ Finally, the web aligner doesnt like spaces in the names of fasta headers, so us
 **Task 3:** Perform a multiple sequence alignment using the sequences you retrieved.
 
 Procedure:
-1. Go to [https://www.ebi.ac.uk/Tools/msa/clustalo/](https://www.ebi.ac.uk/Tools/msa/clustalo/)
+1. Go to [https://www.ebi.ac.uk/Tools/msa/clustalo/](https://www.ebi.ac.uk/jdispatcher/msa/clustalo)
 2. Upload the file with all the sequences you have downloaded (all_sequences.fasta) or copy all the contents of the file and paste it into the box. To Upload: Click on Choose File, navigate to the file location on the computer, then click Upload.
 3. Wait for the job to complete
 4. Look at the alignment of all the sequences - how does this compare to a pairwise analysis of two sequences
 5. Look at the tree of these sequences, how do they compare?
 
+Extra task - use ensembl biomart to find your favourite organism from its selection of species and retrieve the taste genes. 
+How do these compare to the other species we have seen today? 
 
 
 
