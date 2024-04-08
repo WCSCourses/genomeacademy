@@ -55,7 +55,9 @@ _Vaishnavi holds a Bachelor's degree in Bioengineering from MIT School of Bioeng
 <p style="text-align: center;">
 <i>Top Row: Fran Gale, Sam Shingles, Casandra Soo </i>
  
-<i>Bottom Row: Aaron Dean, Chris Adamson, Jorge Batista da Rocha</i>
+<i>Middle Row: Aaron Dean, Chris Adamson, Jorge Batista da Rocha</i>
+
+<i>Bottom Row: Alice Matimba, Martin Aslett, Vaishnavi Gangadhar</i>
 </p>
 
 ## Speakers
