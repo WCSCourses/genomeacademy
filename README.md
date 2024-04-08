@@ -52,7 +52,7 @@ _Vaishnavi holds a Bachelor's degree in Bioengineering from MIT School of Bioeng
 
 ![placeholder image of instructors](modules/img/instructors_image_latest.png)
 
-<p style="text-align: center;">
+<p style="text-align: left;">
 <i>Top Row: Fran Gale, Sam Shingles, Casandra Soo </i>
  
 <i>Middle Row: Aaron Dean, Chris Adamson, Jorge Batista da Rocha</i>
