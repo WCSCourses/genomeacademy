@@ -38,7 +38,19 @@ _Jorge joined Wellcome Connecting Science in October 2021 as an Education Develo
 
 _Chris is a Laboratory Operations Officer, helping to organise and facilitate lab practical sessions for courses. Previously he graduated with a BSc in Biochemistry worked in hospital microbiology and COVID diagnostics._
 
-![placeholder image of instructors](instructors_image_latest.png)
+- **Alice Matimba**, Head of Training and Capacity Building - Learning and Training Team
+
+_Alice leads the computational- and laboratory-based courses and the global training programme. Key to this is developing strong links with international networks and centres in LMICs. Alice graduated with her PhD in Human Genetics from the University of Cape Town, South Africa. Thereafter, she pursued a pharmacogenomics postdoctoral research fellowship at the Mayo Clinic in USA, before joining the University of Zimbabwe College of Health Sciences in 2012, where she focused on health education and research in non-communicable diseases, pharmacology, genomics and ethics._
+
+- **Martin Aslett**, IT Manager - Learning and Training Team
+
+_Martin joined the team as IT Manager in 2016. Prior to this, Martin worked in the Pathogen Informatics team at the Wellcome Sanger Institute for 14 years, providing software support for both internal and external users. He has a BSc (Hons) degree in Zoology from Leeds University, and an MSc in Biological Computation from York University._
+
+- **Vaishnavi Gangadhar**, Informatics Technical Officer - Learning and Training Team
+
+_Vaishnavi holds a Bachelor's degree in Bioengineering from MIT School of Bioengineering Sciences and Research, India and a Master's in Bioinformatics from the University of Manchester. In her role as an Information Technical Officer, Vaishnavi ensures the efficient setup and maintenance of computational resources, such as servers and databases, to support bioinformatics research. As part of her responsibilities, Vaishnavi oversees the organisation and delivery of bioinformatics courses, ensuring that students have the necessary resources and support to succeed in their studies. Through her work at Wellcome Connecting Science Learning and Training, Vaishnavi aims to contribute to advancements in genomic science by facilitating access to education and resources in the field._
+
+![placeholder image of instructors](modules/img/instructors_image_latest.png)
 
 <p style="text-align: center;">
 <i>Top Row: Fran Gale, Sam Shingles, Casandra Soo </i>
