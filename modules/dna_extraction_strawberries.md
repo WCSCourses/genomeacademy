@@ -19,14 +19,14 @@ In this practical, you will extract the DNA from strawberries. Strawberries can 
 
 1. Put the strawberry into the plastic bag, seal it and crush for about 2 minutes.
 
-2. Mix together 10ml of washing up liquid, 1g of salt and 100ml water in a beaker. This micture will break down cell membranes and release the DNA.
+2. Mix together 10ml of washing up liquid, 1g of salt and 100ml water in a beaker. This mixture will break down cell membranes and release the DNA.
 
 3. Add 10ml of the extaction liquid to the bag with the strawberry. Mix together for 1 minute.
 
 4. FIlter the strawberry mixture
 
-5. Pour 10ml of ice-cold ethanol down teh side of the beaker into the strawberry mixture, do not mix or stir. The DNA will separate out into this layer.
+5. Pour 10ml of ice-cold ethanol down the side of the beaker into the strawberry mixture, do not mix or stir. The DNA will separate out into this layer.
 
-Within a few seconds you should start to see a white cloudy substance form in the clear layer above the strawberry mixture. Use a lolly stick to pull strands of this our of the top layer.
+Within a few seconds you should start to see a white cloudy substance form in the clear layer above the strawberry mixture. Use a lolly stick to pull strands of this out of the top layer.
 
 This is the strawberry DNA.
