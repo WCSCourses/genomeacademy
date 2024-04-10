@@ -94,7 +94,7 @@ In this section you will find all the materials used during the course so you ca
 
 [Introduction to MinION sequencing presentation](modules/An Introduction to Minion Sequencing- Genome Academy.pdf)
 
-[Single Cell Sequencing - Lia Chappell](modules/2023.08.23.Lia_Single_Cell_talk.pdf)
+[Single Cell Sequencing - Lia Chappell](2023.08.23.Lia_Single_Cell_talk (1).pdf)
 
 
   
