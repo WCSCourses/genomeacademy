@@ -98,7 +98,7 @@ In this section you will find all the materials used during the course so you ca
 
   
 **Day 3**  
-[Ethics and Genomics presentation](modules/Ethics and Genomics - Genome Academy .pdf)
+[Ethics and Genomics presentation](https://github.com/WCSCourses/genomeacademy/blob/e64ddf505930b4708ab4831ba4c2f56d01b6f49e/modules/Ethics%20and%20Genomics%20-%20Genome%20Academy%20.pdf)
 
 [ABC vs NHS videos](https://societyandethicsresearch.wellcomeconnectingscience.org/project/abc-versus-st-georges-nhs-trust/)
 
