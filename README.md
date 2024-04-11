@@ -109,6 +109,8 @@ In this section you will find all the materials used during the course so you ca
 
 [Function Finders BLAST - Bioinformatics Activity](https://www.yourgenome.org/activities/function-finders-blast/)
 
+[Applications of Bioinformatics talk - Anna Swan](modules/WCS Genome Academy - Applications of bioinformatics - Anna Swan EMBL-EBI.pdf)
+
 
 # Further Reading and Useful resources      
 Below are links to some further reading and resources
