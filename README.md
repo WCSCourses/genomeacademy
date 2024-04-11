@@ -87,7 +87,7 @@ In this section you will find all the materials used during the course so you ca
 
 [Protocol for performing quick PCR session 1 and 2](modules/quick_pcr_protocol.md)
 
-[Michael Ansah's talk](course_data/Michael Ansah presentation.pdf)
+[Michael Ansah's talk- Neglected tropical diseases](course_data/Michael Ansah presentation.pdf)
 
 **Day 2**  
 [Open Lab Video](https://www.youtube.com/watch?v=M3wY7kvg8i4)
